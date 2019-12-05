@@ -1,0 +1,32 @@
+
+body {
+
+    font-family: 'Roboto Slab', serif;
+}
+
+
+.container {
+
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -100px;
+}
+
+.container  div {
+
+    font-size: 40px;
+    background-color: #4a4a4a;
+    padding: 10px 0px 0px 10px;
+    border-width: 10px;
+    border: 11px solid yellow;
+    width: 200px;
+    height: 200px;
+
+}
+
+.font-color {
+
+    color: #f8e71c;
+}
